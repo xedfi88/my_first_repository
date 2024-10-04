@@ -1,1 +1,3 @@
-print('proverka')
+print("proverka")
+
+print("proverka 2")
